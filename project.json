@@ -1,0 +1,1 @@
+{"name":"coffee-ai-agent","version":"1.0.0","description":"Personalized coffee recommendation agent using Google ADK, Gemini, RAG and Cloud Run","backend":"Python 3.12","frontend":"React + Vite","deployment":"Cloud Run"}

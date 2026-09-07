@@ -1,0 +1,10 @@
+[
+{"id":"menu-1","title":"Cold Brew Vanilla Latte","category":"cold","content":"Cold Brew Vanilla Latte — ₹240 — 350ml. Cold brew coffee with oat milk and light vanilla. Cold, lightly sweet. Contains oats."},
+{"id":"menu-2","title":"Iced Americano","category":"cold","content":"Iced Americano — ₹180 — 350ml. Espresso with chilled water over ice. No milk and no added sugar."},
+{"id":"menu-3","title":"Oat Milk Latte","category":"hot","content":"Oat Milk Latte — ₹220 — 300ml. Espresso with steamed oat milk. Mild sweetness. Hot. Contains oats."},
+{"id":"menu-4","title":"Caramel Frappe","category":"cold","content":"Caramel Frappe — ₹260 — 400ml. Blended iced coffee with milk, caramel syrup and whipped cream. Sweet and cold. Contains milk."},
+{"id":"menu-5","title":"South Indian Filter Coffee","category":"hot","content":"South Indian Filter Coffee — ₹140 — 200ml. Filter coffee with dairy milk and sugar. Hot. Contains milk."},
+{"id":"faq-1","title":"Allergen FAQ","category":"faq","content":"Common ingredients are identified when known. Customers with severe allergies should confirm ingredients and cross-contact with shop staff before ordering."},
+{"id":"faq-2","title":"Customization FAQ","category":"faq","content":"Less or no syrup may be possible where applicable. Milk substitutions and other changes should be confirmed by shop staff."},
+{"id":"faq-3","title":"Ordering FAQ","category":"faq","content":"This demo can create an order draft but does not process payment or submit a real order."}
+]
